@@ -14,11 +14,7 @@
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
 }
-.homeTruncate {
-  white-space: nowrap;
-overflow: hidden;
-text-overflow: ellipsis;
-}
+
 
 .footer-padding {
 	padding-bottom: 60px;
